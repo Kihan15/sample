@@ -1,0 +1,27 @@
+new merge
+
+# Conflicts:
+#	samplefile.sh
+#
+# It looks like you may be committing a cherry-pick.
+# If this is not correct, please run
+#	git update-ref -d CHERRY_PICK_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sun Nov 16 10:19:05 2025 +0000
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# You are currently cherry-picking commit c687394.
+#
+# Changes to be committed:
+#	modified:   samplefile.sh
+#
+# Changes not staged for commit:
+#	deleted:    test
+#
